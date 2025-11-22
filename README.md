@@ -50,7 +50,7 @@ DB_NAME=ecom
 2.2. Запустите контейнеры:
 
 ```bash
-docker-compose up -d
+docker compose up -d
 ```
 
 > **Важно:** Для локального и Docker-запуска требуются разные конфигурации `.env` файлов, особенно параметр `DB_HOST`.
