@@ -40,7 +40,7 @@ go run main.go
 2.1. Создайте `.env` файл для Docker:
 
 ```env
-DB_HOST=postgres
+DB_HOST=db
 DB_PORT=5432
 DB_USER=postgres
 DB_PASSWORD=password
